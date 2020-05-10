@@ -27,6 +27,9 @@ The dataset includes motion capture takes other than conversations, such as rang
 
 If you would like to use just the conversation takes, see `configs/conversations.json` to find out which takes are the conversation takes, and their corresponding lengths.
 
+### Types of participants
+There are two types of participants, _deep_ and _shallow_. Deep participants have participated across multiple sessions, while shallow participants had only one session. 
+
 
 
 ## Questions
