@@ -8,6 +8,8 @@ This repository contains the data released in the ICCV 2019 paper, *Talking With
 
 This release contains majority of the entire dataset described in our paper: the motion data of 32 sessions. Each session contains several conversation tasks between a pair of persons, as described in our paper. In total, this release contains 116 takes, approximately 20 hours of conversation data. We are working to release other parts of the dataset in the future, including the audio.
 
+**[NEW: 02/24/2021]** Now audio data of 17 sessions are released. Note we masked out (by setting audio sample values to 0) any audio segment that may relate to privacy or person identifiable information. The audio data of remaining sessions are under review & cleaning process now.
+
 
 
 ### Unzip
