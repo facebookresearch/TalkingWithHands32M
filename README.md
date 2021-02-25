@@ -8,8 +8,7 @@ This repository contains the data released in the ICCV 2019 paper, *Talking With
 
 This release contains majority of the entire dataset described in our paper: the motion data of 32 sessions. Each session contains several conversation tasks between a pair of persons, as described in our paper. In total, this release contains 116 takes, approximately 20 hours of conversation data. We are working to release other parts of the dataset in the future, including the audio.
 
-**[NEW: 02/24/2021]** Now audio data of 17 sessions are released. Note we masked out (by setting audio sample values to 0) any audio segment that may relate to privacy or person identifiable information. The audio data of remaining sessions are under review & cleaning process now.
-
+**[NEW: 02/24/2021]** Now audio data of 17 sessions are released. Note we masked out (by setting audio sample values to 0) any audio segment that may relate to privacy or person identifiable information. The audio data of remaining sessions are under review & cleaning process now. Note only conversational takes have audios. The body gesture takes do not have audio.
 
 
 ### Unzip
@@ -32,6 +31,23 @@ If you would like to use just the conversation takes, see `configs/conversations
 ### Types of participants
 There are two types of participants, _deep_ and _shallow_. Deep participants have participated across multiple sessions, while shallow participants had only one session. 
 
+## Missing Data
+We identified the following takes missing data for the shallow participant. We are working to address this issue. In the meantime,  you can still use the data of the deep participants for these takes.
+session16/take7
+session16/take8
+session21/take12
+session22/take16
+session22/take17
+session22/take5
+session22/take6
+session22/take7
+session24/take7
+session28/take10
+session28/take11
+session28/take14
+session28/take15
+session28/take4
+session28/take5
 
 
 ## Questions
