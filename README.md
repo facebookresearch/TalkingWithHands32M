@@ -31,7 +31,7 @@ If you would like to use just the conversation takes, see `configs/conversations
 ### Types of participants
 There are two types of participants, _deep_ and _shallow_. Deep participants have participated across multiple sessions, while shallow participants had only one session. 
 
-## Missing Data
+### Missing Data
 We identified the following takes missing data for the shallow participant. We are working to address this issue. In the meantime,  you can still use the data of the deep participants for these takes.
 - session16/take7
 - session16/take8
