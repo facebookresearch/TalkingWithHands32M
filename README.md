@@ -33,21 +33,12 @@ There are two types of participants, _deep_ and _shallow_. Deep participants hav
 
 ### Missing Data
 We identified the following takes missing data for the shallow participant. We are working to address this issue. In the meantime,  you can still use the data of the deep participants for these takes.
-- session16/take7
-- session16/take8
-- session21/take12
-- session22/take16
-- session22/take17
-- session22/take5
-- session22/take6
-- session22/take7
-- session24/take7
-- session28/take10
-- session28/take11
-- session28/take14
-- session28/take15
-- session28/take4
-- session28/take5
+
+session16/take7  session16/take8  session21/take12  session22/take16  session22/take17  
+
+session22/take5 session22/take6  session22/take7  session24/take7  session28/take10
+
+session28/take11 session28/take14  session28/take15  session28/take4  session28/take5
 
 
 ## Questions
